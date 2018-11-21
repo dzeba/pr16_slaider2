@@ -1,0 +1,37 @@
+.txt1{
+    font-size: 18px;
+    letter-spacing: 4px;
+    line-height: 19px;
+    color: #303030;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    margin-left: 500px;
+    padding-top: 30px;
+}
+.txt2{
+    font-size: 86px;
+    line-height: 90px;
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+    margin-left: 300px;
+    padding-top: 30px;
+}
+.main{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+}
+img{
+    margin-left: 1%;
+}
+.prev{
+    position: absolute;
+    margin-top: 120px;
+    cursor: pointer;
+}
+.next{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 1200px;
+    cursor: pointer;
+}
